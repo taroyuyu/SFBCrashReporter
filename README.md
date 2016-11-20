@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/sbooth/SFBCrashReporter.svg?branch=master)](https://travis-ci.org/sbooth/SFBCrashReporter)
 [![Version](https://img.shields.io/cocoapods/v/SFBCrashReporter.svg)](http://cocoadocs.org/docsets/SFBCrashReporter)
 [![Platform](https://img.shields.io/cocoapods/p/SFBCrashReporter.svg)](https://github.com/sbooth/SFBCrashReporter)
 [![License](https://img.shields.io/cocoapods/l/SFBCrashReporter.svg)](COPYING)
